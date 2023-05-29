@@ -15,7 +15,7 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 5.Using for loop get input from the user for each element in the matrix.
 6.Using for loop we can perform the elementary row operations and find the final matrix.
 7.Print the values by solving the matrix using for loop with 2 point precision.
-8.End the program 
+8.End the program.
 
 ## Program:
 ```
